@@ -1,4 +1,4 @@
-画像をコピペ
+<img width="1393" alt="image" src="https://user-images.githubusercontent.com/99580997/222878240-2bf838c1-bb3e-4808-b1a2-f7a0d547c771.png">
 
 # compornent（共通部品）
 - 説明
@@ -7,9 +7,9 @@
 - confirmed or unconfirmed
 
 # browser ck
-- chrome ok ng
-- safari ok ng
-- firefox ok ng
+- chrome pc(ok),mobile(ok)
+- safari pc(ok), mobile(ng)
+- firefox pc(ok),mobile(ok)
 - edge ok ng
 
 ## portfolio url:
